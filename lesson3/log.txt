@@ -1,0 +1,44 @@
+2024-02-14 19:29:22 INFO ====== WebDriver manager ======
+2024-02-14 19:29:22 INFO Get LATEST geckodriver version for 122.0 firefox
+2024-02-14 19:29:22 INFO Get LATEST geckodriver version for 122.0 firefox
+2024-02-14 19:29:22 INFO Driver [/Users/sergejveletnuk/.wdm/drivers/geckodriver/mac64/v0.34.0/geckodriver] found in cache
+2024-02-14 19:29:24 INFO Test1 starting
+2024-02-14 19:29:25 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2024-02-14 19:29:25 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2024-02-14 19:29:25 INFO Click login button
+2024-02-14 19:29:26 INFO find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2024-02-14 19:29:26 INFO ====== WebDriver manager ======
+2024-02-14 19:29:26 INFO Get LATEST geckodriver version for 122.0 firefox
+2024-02-14 19:29:27 INFO Get LATEST geckodriver version for 122.0 firefox
+2024-02-14 19:29:27 INFO Driver [/Users/sergejveletnuk/.wdm/drivers/geckodriver/mac64/v0.34.0/geckodriver] found in cache
+2024-02-14 19:29:28 INFO Test2 starting
+2024-02-14 19:29:29 INFO Send leonid to element //*[@id="login"]/div[1]/label/input
+2024-02-14 19:29:29 INFO Send 142153c067 to element //*[@id="login"]/div[2]/label/input
+2024-02-14 19:29:29 INFO Click login button
+2024-02-14 19:29:29 INFO User
+2024-02-14 19:29:31 INFO ====== WebDriver manager ======
+2024-02-14 19:29:31 INFO Get LATEST geckodriver version for 122.0 firefox
+2024-02-14 19:29:31 INFO Get LATEST geckodriver version for 122.0 firefox
+2024-02-14 19:29:32 INFO Driver [/Users/sergejveletnuk/.wdm/drivers/geckodriver/mac64/v0.34.0/geckodriver] found in cache
+2024-02-14 19:29:33 INFO Test3 starting
+2024-02-14 19:29:34 INFO Send leonid to element //*[@id="login"]/div[1]/label/input
+2024-02-14 19:29:34 INFO Send 142153c067 to element //*[@id="login"]/div[2]/label/input
+2024-02-14 19:29:34 INFO Click login button
+2024-02-14 19:29:34 INFO Click create new post
+2024-02-14 19:29:35 INFO new title post
+2024-02-14 19:29:35 INFO new description post
+2024-02-14 19:29:35 INFO new content post
+2024-02-14 19:29:39 INFO Click create new post
+2024-02-14 19:29:39 INFO success save post
+2024-02-14 19:29:40 INFO ====== WebDriver manager ======
+2024-02-14 19:29:40 INFO Get LATEST geckodriver version for 122.0 firefox
+2024-02-14 19:29:40 INFO Get LATEST geckodriver version for 122.0 firefox
+2024-02-14 19:29:40 INFO Driver [/Users/sergejveletnuk/.wdm/drivers/geckodriver/mac64/v0.34.0/geckodriver] found in cache
+2024-02-14 19:29:42 INFO Test3 starting
+2024-02-14 19:29:42 INFO Send leonid to element //*[@id="login"]/div[1]/label/input
+2024-02-14 19:29:43 INFO Send 142153c067 to element //*[@id="login"]/div[2]/label/input
+2024-02-14 19:29:43 INFO Click login button
+2024-02-14 19:29:43 INFO Click contact button
+2024-02-14 19:29:44 INFO input contact name
+2024-02-14 19:29:44 INFO input contact email
+2024-02-14 19:29:44 INFO input contact content
